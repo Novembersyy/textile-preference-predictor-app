@@ -977,7 +977,7 @@ with st.sidebar:
 
     st.markdown("## 🔗 Related Resources")
     st.markdown("""
-    - [View Full Dashboard](#) *(https://365umedumy-my.sharepoint.com/:u:/g/personal/23083896_siswa365_um_edu_my/IQChCOw4XqXvQrHzSB3YuY2gAf4C30J2aNsnjewoRgStBIo?e=1hyN4C)*
+    - [View Full Dashboard](#) *(https://365umedumy-my.sharepoint.com/:u:/g/personal/23083896_siswa365_um_edu_my/IQChCOw4XqXvQrHzSB3YuY2gAf4C30J2aNsnjewoRgStBIo?e=q3e4WO)*
     """)
     
     st.divider()
