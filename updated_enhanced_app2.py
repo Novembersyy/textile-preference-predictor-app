@@ -970,16 +970,16 @@ with st.sidebar:
     - **Accuracy**: 84%
     - **Training Data**: 720 consumers
     - **Clusters**: {len(cluster_names)}
-    - **Features**: {len(feature_columns)}
+    - **Features**: {len(feature_columns)} （encoded, 11 original features）
     """)
     
     st.divider()
 
     st.markdown("## 🔗 Related Resources")
     st.markdown("""
-    - [View Full Dashboard](#) *(Link to Power BI)*
+    - [View Full Dashboard](#) *(https://365umedumy-my.sharepoint.com/:u:/g/personal/23083896_siswa365_um_edu_my/IQChCOw4XqXvQrHzSB3YuY2gAf4C30J2aNsnjewoRgStBIo?e=1hyN4C)*
     """)
     
     st.divider()
     
-    st.caption("Developed for WQD7025 Data Science Research Project")
+    st.caption("Developed by 23083896 for WQD7025 Data Science Research Project")
